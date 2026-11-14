@@ -1,4 +1,4 @@
-# Pac-Man風ゲーム - C++ / SDL2
+# Pac-Man
 
 ## ゲーム内容
 
